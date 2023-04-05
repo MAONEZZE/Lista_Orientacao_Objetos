@@ -1,0 +1,15 @@
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Ex1ListaPOO\bin\Debug\net6.0\Ex1ListaPOO.exe
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Ex1ListaPOO\bin\Debug\net6.0\Ex1ListaPOO.deps.json
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Ex1ListaPOO\bin\Debug\net6.0\Ex1ListaPOO.runtimeconfig.json
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Ex1ListaPOO\bin\Debug\net6.0\Ex1ListaPOO.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Ex1ListaPOO\bin\Debug\net6.0\Ex1ListaPOO.pdb
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Ex1ListaPOO\obj\Debug\net6.0\Ex1ListaPOO.csproj.AssemblyReference.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Ex1ListaPOO\obj\Debug\net6.0\Ex1ListaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Ex1ListaPOO\obj\Debug\net6.0\Ex1ListaPOO.AssemblyInfoInputs.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Ex1ListaPOO\obj\Debug\net6.0\Ex1ListaPOO.AssemblyInfo.cs
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Ex1ListaPOO\obj\Debug\net6.0\Ex1ListaPOO.csproj.CoreCompileInputs.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Ex1ListaPOO\obj\Debug\net6.0\Ex1ListaPOO.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Ex1ListaPOO\obj\Debug\net6.0\refint\Ex1ListaPOO.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Ex1ListaPOO\obj\Debug\net6.0\Ex1ListaPOO.pdb
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Ex1ListaPOO\obj\Debug\net6.0\Ex1ListaPOO.genruntimeconfig.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Ex1ListaPOO\obj\Debug\net6.0\ref\Ex1ListaPOO.dll
